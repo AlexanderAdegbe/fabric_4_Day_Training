@@ -1,7 +1,6 @@
 [
     {
-        "p_rel_url": "https://raw.githubusercontent.com/AlexanderAdegbe/fabric_4_Day_Training/refs/heads/main/AdventureWorks_Product_Categories.csv
-",
+        "p_rel_url": "https://raw.githubusercontent.com/AlexanderAdegbe/fabric_4_Day_Training/refs/heads/main/AdventureWorks_Product_Categories.csv",
         "p_sink_folder" : "AdventureWorks_Product_Categories",
         "p_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
@@ -48,3 +47,4 @@
     }
 
 ]
+
