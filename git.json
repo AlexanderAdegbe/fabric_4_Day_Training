@@ -38,9 +38,15 @@
         "p_rel_url" : "https://raw.githubusercontent.com/AlexanderAdegbe/fabric_4_Day_Training/refs/heads/main/AdventureWorks_Territories.csv",
         "p_sink_folder" : "AdventureWorks_Territories",
         "p_sink_file" : "AdventureWorks_Territories.csv"
+    },
+    {
+        "p_rel_url" : "https://raw.githubusercontent.com/AlexanderAdegbe/fabric_4_Day_Training/refs/heads/main/AdventureWorks_Returns.csv",
+        "p_sink_folder" : "AdventureWorks_Territories",
+        "p_sink_file" : "AdventureWorks_Territories.csv"
     }
 
 ]
+
 
 
 
